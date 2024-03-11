@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">30_Days_App</string>
+    <string name="app_version">1.00</string>
+    <string name="app_last_review">March 03, 2024</string>
+    <string name="app_creator">Hugo Camargo</string>
+
+    <string name="app_title">30 Days of Ramadan Inspiration</string>
+
+    <!-- Day 1 -->
+    <string name="day1">Day 1</string>
+    <string name="phrase1">“Call upon me, I will respond to you.”</string>
+    <string name="description1">This quote from the Quran (40:60) emphasizes the responsiveness of God to the prayers and supplications of believers, instilling hope and encouragement in seeking divine assistance.</string>
+
+    <!-- Day 2 -->
+    <string name="day2">Day 2</string>
+    <string name="phrase2">“Speak a good word or remain silent.”</string>
+    <string name="description2">Attributed to Prophet Muhammad, this quote underscores the importance of choosing words wisely, promoting positivity, and avoiding harmful speech or gossip.</string>
+
+    <!-- Day 3 -->
+    <string name="day3">Day 3</string>
+    <string name="phrase3">“Indeed, good deeds wipe out the evil deeds”</string>
+    <string name="description3">Found in the Qur`an (11:114), this quote highlights the concept of atonement and redemption through performing righteous acts, symbolizing the transformative power of goodness over sin.</string>
+
+    <!-- Day 4 -->
+    <string name="day4">Day 4</string>
+    <string name="phrase4">“When the world goes to sleep, God is the One who is awake with you…"</string>
+    <string name="description4">This reflection reminds believers of God`s constant vigilance and compassion, offering solace during moments of solitude or distress, and affirming the omnipresence of divine care and understanding.</string>
+
+    <!-- Day 5 -->
+    <string name="day5">Day 5</string>
+    <string name="phrase5">“It is not the eyes that are blind, but the hearts.”</string>
+    <string name="description5">A verse from the Qur`an (22:46), it underscores the importance of spiritual perception and insight over mere physical sight, emphasizing the need for inner enlightenment and understanding.</string>
+
+    <!-- Day 6 -->
+    <string name="day6">Day 6</string>
+    <string name="phrase6">“Do not despair of the mercy of Allah.”</string>
+    <string name="description6">This verse (39:53) from the Qur`an offers reassurance and hope to believers, encouraging them to maintain faith and optimism even in challenging circumstances, trusting in Allah`s boundless mercy and compassion.</string>
+
+    <!-- Day 7 -->
+    <string name="day7">Day 7</string>
+    <string name="phrase7">“Indeed, God will not change the conditions of people until they change what it is in themselves.”</string>
+    <string name="description7">Found in the Qur`an (13:11), this verse emphasizes the principle of self-improvement and personal responsibility, suggesting that societal change begins with individual transformation and moral growth.</string>
+
+    <!-- Day 8 -->
+    <string name="day8">Day 8</string>
+    <string name="phrase8">“He is the most merciful of those who show mercy.”</string>
+    <string name="description8">This verse (12:64) from the Qur`an highlights Allah`s attribute of mercy, underscoring His unparalleled compassion and benevolence towards His creation.</string>
+
+    <!-- Day 9 -->
+    <string name="day9">Day 9</string>
+    <string name="phrase9">“Do not be afraid. I am with you, all-hearing and all-seeing.”</string>
+    <string name="description9">Offering comfort and reassurance, this quote (20:46) from the Qur`an reminds believers of Allah`s omnipresence and attentiveness, encouraging them to trust in His guidance and protection.</string>
+
+    <!-- Day 10 -->
+    <string name="day10">Day 10</string>
+    <string name="phrase10">“Allah likes those who are thankful.”</string>
+    <string name="description10">Derived from the Qur`an (19:9), this quote emphasizes the virtue of gratitude, reminding believers to appreciate Allah`s blessings and express thankfulness in all circumstances.</string>
+
+    <!-- Day 11 -->
+    <string name="day11">Day 11</string>
+    <string name="phrase11">“Allah is with those who restrain themselves.”</string>
+    <string name="description11">This verse (16:128) from the Qur`an highlights the importance of self-discipline and self-control in Islam, suggesting that divine support accompanies those who exercise moderation and restraint.</string>
+
+    <!-- Day 12 -->
+    <string name="day12">Day 12</string>
+    <string name="phrase12">“The strong man is not a good wrestler; the strong man is only the one who controls himself when he is angry.”</string>
+    <string name="description12">Attributed to Prophet Muhammad, this saying underscores the significance of emotional intelligence and self-mastery, defining strength not by physical prowess but by the ability to manage one`s emotions and impulses.</string>
+
+    <!-- Day 13 -->
+    <string name="day13">Day 13</string>
+    <string name="phrase13">“To exercise patience and forgive is proof of genuine courage.”</string>
+    <string name="description13">This quote (42:43) from the Qur`an extols the virtues of patience and forgiveness, highlighting them as manifestations of inner strength and moral courage in facing life`s adversities and conflicts.</string>
+
+    <!-- Day 14 -->
+    <string name="day14">Day 14</string>
+    <string name="phrase14">“Indeed, what is to come will be better for you than what has gone by.”</string>
+    <string name="description14">Found in the Qur`an (93:4), this verse offers hope and optimism for the future, reassuring believers that better days lie ahead, and encouraging them to persevere through present challenges.</string>
+
+    <!-- Day 15 -->
+    <string name="day15">Day 15</string>
+    <string name="phrase15">“If you are grateful, I will give you more.”</string>
+    <string name="description15">This promise from the Qur`an (14:7) underscores the reciprocal nature of gratitude and blessings, suggesting that expressing thankfulness to Allah leads to further divine favor and abundance.</string>
+
+    <!-- Day 16 -->
+    <string name="day16">Day 16</string>
+    <string name="phrase16">“For Allah loves those who put their trust in Him.”</string>
+    <string name="description16">Derived from the Qur`an (3:159), this quote emphasizes the importance of trust and reliance on Allah, highlighting it as a key aspect of faith and demonstrating believers` dependence on divine guidance and providence.</string>
+
+    <!-- Day 17 -->
+    <string name="day17">Day 17</string>
+    <string name="phrase17">“You have power over all things.”</string>
+    <string name="description17">This empowering verse (3:26) from the Qur`an reminds believers of their agency and capability, encouraging them to exercise their potential for positive change and impact within the bounds of divine guidance.</string>
+
+    <!-- Day 18 -->
+    <string name="day18">Day 18</string>
+    <string name="phrase18">“My Lord grants me courage.”</string>
+    <string name="description18">This invocation from the Qur`an (20:25) reflects a prayer for strength and fortitude, affirming the believer`s reliance on Allah`s assistance in facing challenges and overcoming obstacles.</string>
+
+    <!-- Day 19 -->
+    <string name="day19">Day 19</string>
+    <string name="phrase19">“On no soul do we place a burden greater than it can bear.”</string>
+    <string name="description19">This verse (23:62) from the Qur`an offers reassurance and comfort, assuring believers that Allah does not burden them beyond their capacity, implying His fairness and compassion in testing individuals.</string>
+
+    <!-- Day 20 -->
+    <string name="day20">Day 20</string>
+    <string name="phrase20">“I choose faith over anxiety, hope over worry, love over fear.”</string>
+    <string name="description20">This reflection encapsulates the essence of spiritual resilience and positivity, encouraging believers to prioritize faith, hope, and love in navigating life`s challenges and uncertainties.</string>
+
+    <!-- Day 21 -->
+    <string name="day21">Day 21</string>
+    <string name="phrase21">“Seek the vital power that exists within your soul…"</string>
+    <string name="description21">Drawing from the wisdom of Rumi, this quote inspires introspection and self-discovery, urging individuals to delve into their inner depths in pursuit of spiritual enlightenment and fulfillment.</string>
+
+    <!-- Day 22 -->
+    <string name="day22">Day 22</string>
+    <string name="phrase22">“Whoever Allah wishes to show goodness, He gives him an understanding of the religion.”</string>
+    <string name="description22">This Hadith from Sahih Bukhari (71) highlights the importance of religious knowledge and understanding in receiving divine favor and guidance, suggesting that true goodness stems from deepening one`s understanding of Islam.</string>
+
+    <!-- Day 23 -->
+    <string name="day23">Day 23</string>
+    <string name="phrase23">“They plot and plan and Allah plans too…"</string>
+    <string name="description23">Found in the Qur`an (8:30), this verse reassures believers in the face of adversity or opposition, affirming Allah`s ultimate authority and wisdom in orchestrating events according to His divine plan.</string>
+
+    <!-- Day 24 -->
+    <string name="day24">Day 24</string>
+    <string name="phrase24">“Allah is the all-knowing each and everything”</string>
+    <string name="description24">This attribute of Allah, highlighted in the Qur`an (2:282), underscores His omniscience and comprehensive knowledge, reassuring believers of His awareness and understanding of all aspects of their lives.</string>
+
+    <!-- Day 25 -->
+    <string name="day25">Day 25</string>
+    <string name="phrase25">“We shall show them Our signs on the horizons and in their souls.”</string>
+    <string name="description25">This promise from the Qur`an (41:53) speaks to the revelation of divine guidance and wisdom both in the natural world and within the hearts of believers, inviting contemplation and reflection on the signs of Allah`s presence and power.</string>
+
+    <!-- Day 26 -->
+    <string name="day26">Day 26</string>
+    <string name="phrase26">“So flee to God.”</string>
+    <string name="description26">Found in the Qur`an (51:50), this verse encourages believers to seek refuge in Allah in times of trouble or distress, emphasizing the efficacy of turning to Him for protection and guidance.</string>
+
+    <!-- Day 27 -->
+    <string name="day27">Day 27</string>
+    <string name="phrase27">“Seek guidance from Me, and I will guide You.”</string>
+    <string name="description27">This Hadith Qudsi reflects Allah`s promise to provide guidance to those who seek it earnestly, underscoring the importance of turning to Him for spiritual direction and enlightenment.</string>
+
+    <!-- Day 28 -->
+    <string name="day28">Day 28</string>
+    <string name="phrase28">“It is He who enables you to travel on Land and Sea.”</string>
+    <string name="description28">Derived from the Qur`an (10:22), this verse acknowledges Allah`s facilitation of human mobility and exploration, reminding believers of His sovereignty over all aspects of creation.</string>
+
+    <!-- Day 29 -->
+    <string name="day29">Day 29</string>
+    <string name="phrase29">“Even if all the trees on earth were pens, and the ocean inks…"</string>
+    <string name="description29">This verse (31:27) from the Qur`an symbolizes the inexhaustible nature of Allah`s wisdom and knowledge, conveying His limitless power and understanding that surpasses human comprehension.</string>
+
+    <!-- Day 30 -->
+    <string name="day30">Day 30</string>
+    <string name="phrase30">“Grant light to my soul.”</string>
+    <string name="description30">This supplication from Ibn Arabi expresses a desire for spiritual illumination and enlightenment, reflecting the aspiration for divine guidance and inner transformation as Ramadan draws to a close.</string>
+
+    </resources>
